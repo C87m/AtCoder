@@ -1,5 +1,6 @@
 #C-Make Ismorphic
 #途中断念　やり方わかんなかった
+
 '''
 import numpy as np
 N = int(input())
